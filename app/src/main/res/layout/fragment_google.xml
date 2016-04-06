@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/text24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text"
+            android:text="@string/text24" />
+
+        <ImageView
+            android:id="@+id/image17"
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/image17"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/text24"/>
+
+        <TextView
+            android:id="@+id/text25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text"
+            android:text="@string/text25"
+            android:layout_below="@id/image17"/>
+
+        <ImageView
+            android:id="@+id/image18"
+            android:paddingTop="5dp"
+            android:layout_width="500dp"
+            android:layout_height="200dp"
+            android:src="@drawable/image18"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/text25"/>
+
+        <TextView
+            android:id="@+id/text26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text"
+            android:text="@string/text26"
+            android:layout_below="@id/image18"/>
+
+        <TextView
+            android:id="@+id/text27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text"
+            android:text="@string/text27"
+            android:layout_below="@id/text26"/>
+
+
+    </RelativeLayout>
+</ScrollView>

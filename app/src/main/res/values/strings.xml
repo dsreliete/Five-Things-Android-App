@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">FiveThings</string>
+
+    <!-- Connection -->
+
+    <string name="text1">Para navegar na internet é preciso realizar uma conexão com a rede wireless.
+        Quando vc ligar o notebook, ele automaticamente se conecta sozinho. Então sempre verifique se
+        o computador está conectado à internet! </string>
+
+    <string name="text2">No canto inferior direito da tela do notebook há essa indicação: </string>
+
+    <string name="text3">Quando está conectado:   </string>
+
+    <string name="text4">Além disso, para confirmar, posicione o cursor
+        do mouse próximo ao ícone e clique sobre o ícone. Logo aparecerá uma lista de redes disponíveis
+        ao nosso redor</string>
+
+    <string name="text5">encontre a nossa rede, cujo o nome é _____ e ao lado a mensagem CONECTADO.
+        Esse é um segundo indício de que há conexão disponível.</string>
+
+    <string name="text6">Quando não há conexão disponível. O ícone fica desta maneira:</string>
+
+    <string name="text7">Então como tentar se conectar novamente ?</string>
+
+    <string name="text8">Posicione o cursor do mouse próximo ao ícone da indicação da rede e clique
+        sobre ele. Logo aparecerá uma lista de redes disponíveis ao nosso redor (não se preocupe),
+        encontre a nossa rede, cujo o nome é ___________ . Clique sobre o ele e perceba que aparecerá o
+        botão CONECTAR. Clique sobre o botão e perceba que a conexão é reestabelecida.</string>
+
+    <string name="text9">Se aparecer a mensagem “SEM CONEXÃO COM A INTERNET”. Vá ao roteador,
+        que fica no quarto e veja se as luzes estão acesas.  </string>
+
+    <string name="text10"> Se todas as luzes estiverem acessas, vá até o computador e veja se a placa
+        de rede do notebook está ligada. Clique no botão do teclado do notebook com o símbolo </string>
+
+    <string name="text11">e veja se a imagem que aparecerá na tela ficará clara ou brilhante, o que
+        indica que a placa de rede foi desligada e vc ligou-a novamente e então tente se conectar
+        normalmente.Caso a imagem ficar meio apagadinha, quer dizer que a placa foi desligada e vc
+        deve apertar o botão novamente para ligá-la. Depois, é só tentar se conectar novamente </string>
+
+    <string name="text12">Caso alguma das luzes do roteador estiver apagada, desligue e ligue o
+        roteador, veja se a luzes se acenderam e tente se conectar novamente lá no computador.
+    </string>
+
+    <!-- Facebook -->
+
+    <string name="text13">Para entrar no facebook, sera preciso que vc digite o link de acesso no
+        navegador. O endereço é www.facebook.com.br, após tecle o botão enter.
+        Depois entre com o seu email no campo do login e senha no campo de senha e clique em ENTRAR</string>
+
+    <string name="text14">Se o login foi realizado com sucesso, vc perceberá que no topo da página
+        há um campo como a figura a seguir. Nesse espaço, vc pode efetuar a busca de pessoas que deseja
+        relacionar. Então, digite o nome de uma pessoa e depois clique na lupa ao lado. Por exemplo,
+        procure por Eliete Rodrigues que aparecerá a minha página!!!</string>
+
+    <string name="text15">Se vc quiser publicar alguma coisa, vc deverá escrever a sua frase no campo
+        “NO QUE VC ESTA PENSANDO” e depois clique em PUBLICAR conforme figura abaixo:</string>
+
+    <string name="text16">Logo abaixo é possível observar as publicações dos seus amigos.
+        Em cada publicação é possível curtir, comentar e publicar.</string>
+
+    <string name="text17">Para curtir é só clicar sobre o JOINHA</string>
+
+    <string name="text18">Para comentar é só clicar em comentar que depois aparecerá um campo,
+        no qual vc pode escrever o seu comentario conforme a figura abaixo</string>
+
+    <string name="text19">Para compartilhar é só clicar em compartilhar e depois escolher a opção
+        compartilhar agora</string>
+
+    <!-- Youtube -->
+
+    <string name="text20"> Para entrar no youtube, será preciso que vc digite o link de acesso no
+        navegador. O endereço é: www.youtube.com.br, após tecle ENTER e aparecerá uma página muito
+        parecida com a figura abaixo</string>
+
+    <string name="text21">No campo, conforme figura abaixo, digite o termo do vídeo que deseja buscar.
+        Por exemplo, procurar os vídeos do porta dos fundos, então digite termo nesse campo e clique
+    sobre a lupa</string>
+
+    <string name="text22">Deverá retornar diversos vídeos (conforme figura abaixo), selecione um a
+        sua escolha e clique sobre ele. O vídeo deverá ser iniciado</string>
+
+    <string name="text23">A barra inferior do vídeo permite que vc pause, aumente o volume, aumente
+        a tela, entre outros. Conforme figura a seguir:</string>
+
+    <!-- Google -->
+    
+    <string name="text24">Para procurar alguma coisa no google, será preciso que vc digite o link de acesso no
+        navegador. O endereço é: www.google.com.br, após tecle ENTER e aparecerá uma página muito
+        parecida com a figura abaixo</string>
+
+    <string name="text25">No campo central digite o termo que deseja buscar, como por exemplo 
+        receita de bolo</string>
+    
+    <string name="text26">O resultado da busca será algo parecido com a imagem abaixo. 
+        Selecione um dos resultados que é sucesso</string>
+
+     <string name="text27">Vc poderá procurar por pedaço de música, vídeos, mensagens de igreja, endereços.
+         O que vc quiser!!!!</string>
+
+    <!-- Dúvida -->
+
+    <string name="text35">Caso tenha qualquer dúvida, queira aprender a utilizar ferramentas mais aprimoradas desses sites
+         ou aprender a usar os aplicativos de celular. Escreva um email tocando sobre a linha abaixo, escreva qual o
+         tema que deseja aprender e depois toque sobre o botão ENVIAR</string>
+
+
+</resources>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+    <TextView
+        android:id="@+id/text13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text13"
+        style="@style/Text"/>
+
+    <ImageView
+        android:id="@+id/image7"
+        android:paddingTop="5dp"
+        android:layout_width="500dp"
+        android:layout_height="150dp"
+        android:src="@drawable/image7"
+        android:scaleType="fitXY"
+        android:layout_below="@id/text13"/>
+
+    <TextView
+        android:id="@+id/text14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text14"
+        style="@style/Text"
+        android:layout_below="@id/image7"/>
+
+        <ImageView
+            android:id="@+id/image8"
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image8"
+            android:layout_below="@id/text14"/>
+
+        <TextView
+            android:id="@+id/text15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text15"
+            style="@style/Text"
+            android:layout_below="@id/image8"/>
+
+
+        <ImageView
+            android:id="@+id/image9"
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image9"
+            android:layout_below="@id/text15"/>
+
+        <TextView
+            android:id="@+id/text16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text16"
+            style="@style/Text"
+            android:layout_below="@id/image9"/>
+
+        <ImageView
+            android:id="@+id/image10"
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image10"
+            android:layout_below="@id/text16"/>
+
+        <TextView
+            android:id="@+id/text17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text17"
+            style="@style/Text"
+            android:layout_below="@+id/image10"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:id="@+id/text18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text18"
+            style="@style/Text"
+            android:layout_below="@+id/text17"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <ImageView
+            android:id="@+id/image11"
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image11"
+            android:layout_below="@id/text18"/>
+
+        <TextView
+            android:id="@+id/text19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text19"
+            style="@style/Text"
+            android:layout_below="@+id/image11"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <ImageView
+            android:id="@+id/image12"
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image12"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/text19"/>
+    </RelativeLayout>
+
+</ScrollView>

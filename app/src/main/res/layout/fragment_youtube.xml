@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/text20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text"
+            android:text="@string/text20" />
+
+        <ImageView
+            android:id="@+id/image13"
+            android:paddingTop="5dp"
+            android:layout_width="500dp"
+            android:layout_height="200dp"
+            android:src="@drawable/image13"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/text20"/>
+
+        <TextView
+            android:id="@+id/text21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text"
+            android:text="@string/text21"
+            android:layout_below="@id/image13"/>
+
+        <ImageView
+            android:id="@+id/image14"
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image14"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/text21"/>
+
+        <TextView
+            android:id="@+id/text22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text"
+            android:text="@string/text22"
+            android:layout_below="@id/image14"/>
+
+        <ImageView
+            android:id="@+id/image15"
+            android:paddingTop="5dp"
+            android:layout_width="500dp"
+            android:layout_height="100dp"
+            android:src="@drawable/image15"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/text22"/>
+
+        <TextView
+            android:id="@+id/text23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text"
+            android:text="@string/text23"
+            android:layout_below="@id/image15"/>
+
+        <ImageView
+            android:id="@+id/image16"
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image16"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/text23"/>
+
+
+    </RelativeLayout>
+</ScrollView>
