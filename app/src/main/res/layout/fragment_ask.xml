@@ -11,8 +11,14 @@
         android:layout_height="wrap_content"
         style="@style/Text"/>
 
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dought_text_input"
+        android:layout_marginTop="8dp">
+
     <EditText
-        android:id="@+id/edit_text"
+        android:id="@+id/edit_dought"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Digite o que deseja aprender"
@@ -23,12 +29,37 @@
         android:inputType=
             "textCapSentences|textAutoCorrect"/>
 
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:id="@+id/dought_text_email">
+
+    <EditText
+        android:id="@+id/edit_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Digite o endereço de email do destinatário"
+        android:paddingTop="16dp"
+        android:ems="10"
+        android:maxLines="1"
+        android:maxLength="40"
+        android:inputType=
+            "textEmailAddress"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+
     <Button
         android:paddingTop="16dp"
         android:id="@+id/send_button"
         android:layout_gravity="center_horizontal"
-        android:text="ENVIAR"
+        android:text="ABRIR"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:background="@color/colorLightPrimary"
+        android:textColor="@color/colorPrimaryDark" />
 
 </LinearLayout>

@@ -9,29 +9,29 @@
 
     <string name="text2">No canto inferior direito da tela do notebook há essa indicação: </string>
 
-    <string name="text3">Quando está conectado:   </string>
+    <string name="text3">Quando está conectado, o ícone fica desta maneira:  </string>
 
-    <string name="text4">Além disso, para confirmar, posicione o cursor
+    <string name="text4">Além disso, para confirmar essa condição, posicione o cursor
         do mouse próximo ao ícone e clique sobre o ícone. Logo aparecerá uma lista de redes disponíveis
         ao nosso redor</string>
 
-    <string name="text5">encontre a nossa rede, cujo o nome é _____ e ao lado a mensagem CONECTADO.
-        Esse é um segundo indício de que há conexão disponível.</string>
+    <string name="text5">encontre a nossa rede, cujo o nome é **** Se aparecer a mensagem CONECTADO ao
+        lado do nome da nossa rede. Esse é um segundo indício de que há conexão disponível.</string>
 
     <string name="text6">Quando não há conexão disponível. O ícone fica desta maneira:</string>
 
-    <string name="text7">Então como tentar se conectar novamente ?</string>
+    <string name="text7">Então como tentar se conectar novamente ????</string>
 
     <string name="text8">Posicione o cursor do mouse próximo ao ícone da indicação da rede e clique
         sobre ele. Logo aparecerá uma lista de redes disponíveis ao nosso redor (não se preocupe),
-        encontre a nossa rede, cujo o nome é ___________ . Clique sobre o ele e perceba que aparecerá o
-        botão CONECTAR. Clique sobre o botão e perceba que a conexão é reestabelecida.</string>
+        encontre a nossa rede, cujo o nome é ****** . Clique sobre o ele e perceba que aparecerá o
+        botão CONECTAR. Clique sobre o botão CONECTAR e perceba que a conexão é reestabelecida.</string>
 
     <string name="text9">Se aparecer a mensagem “SEM CONEXÃO COM A INTERNET”. Vá ao roteador,
         que fica no quarto e veja se as luzes estão acesas.  </string>
 
     <string name="text10"> Se todas as luzes estiverem acessas, vá até o computador e veja se a placa
-        de rede do notebook está ligada. Clique no botão do teclado do notebook com o símbolo </string>
+        de rede do notebook está ligada. Como??? Clique no botão do teclado do notebook com o símbolo </string>
 
     <string name="text11">e veja se a imagem que aparecerá na tela ficará clara ou brilhante, o que
         indica que a placa de rede foi desligada e vc ligou-a novamente e então tente se conectar
@@ -45,11 +45,11 @@
     <!-- Facebook -->
 
     <string name="text13">Para entrar no facebook, sera preciso que vc digite o link de acesso no
-        navegador. O endereço é www.facebook.com.br, após tecle o botão enter.
+        navegador. O endereço é www.facebook.com.br. Após tecle o botão ENTER.
         Depois entre com o seu email no campo do login e senha no campo de senha e clique em ENTRAR</string>
 
     <string name="text14">Se o login foi realizado com sucesso, vc perceberá que no topo da página
-        há um campo como a figura a seguir. Nesse espaço, vc pode efetuar a busca de pessoas que deseja
+        há um campo como a figura a seguir. Nesse espaço, vc pode efetuar a busca de pessoas que deseja se
         relacionar. Então, digite o nome de uma pessoa e depois clique na lupa ao lado. Por exemplo,
         procure por Eliete Rodrigues que aparecerá a minha página!!!</string>
 
@@ -100,9 +100,9 @@
 
     <!-- Dúvida -->
 
-    <string name="text35">Caso tenha qualquer dúvida, queira aprender a utilizar ferramentas mais aprimoradas desses sites
-         ou aprender a usar os aplicativos de celular. Escreva um email tocando sobre a linha abaixo, escreva qual o
-         tema que deseja aprender e depois toque sobre o botão ENVIAR</string>
+    <string name="text35">Caso tenha qualquer dúvida, queira aprender a utilizar outras ferramentas mais aprimoradas desses sites
+         ou aprender a usar os aplicativos de celular. Escreva um email tocando sobre o botão abaixo. Insira o endereço de email do destinatário e o
+         tema que deseja aprender e depois toque sobre o botão ABRIR. Deverá aparecer o seu email padrão, então só enviar a mensagem</string>
 
 
 </resources>
