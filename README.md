@@ -1,4 +1,4 @@
-# fiveThings
+# Five Things
 This repo contains the first version of app Five Things, developed during Study Jam: Android Development for Beginners course.  
 
 ## Instalation 
