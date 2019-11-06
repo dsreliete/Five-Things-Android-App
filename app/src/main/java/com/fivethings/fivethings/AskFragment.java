@@ -13,7 +13,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
-import butterknife.Bind;
+import butterknife.BindView;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
@@ -21,15 +22,15 @@ import butterknife.ButterKnife;
  */
 public class AskFragment extends Fragment implements View.OnClickListener {
 
-    @Bind(R.id.send_button)
+    @BindView(R.id.send_button)
     Button button;
-    @Bind(R.id.edit_dought)
+    @BindView(R.id.edit_dought)
     EditText editTextDought;
-    @Bind(R.id.edit_email)
+    @BindView(R.id.edit_email)
     EditText editTextEmail;
-    @Bind(R.id.dought_text_input)
+    @BindView(R.id.dought_text_input)
     TextInputLayout textInputLayoutDought;
-    @Bind(R.id.dought_text_email)
+    @BindView(R.id.dought_text_email)
     TextInputLayout textInputLayoutEmail;
 
 
